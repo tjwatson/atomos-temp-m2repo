@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.apache.felix</groupId>
+  <artifactId>org.apache.felix.http.jetty</artifactId>
+  <versioning>
+    <release>3.1.0.substrate</release>
+    <versions>
+      <version>3.1.0.substrate</version>
+    </versions>
+    <lastUpdated>20191024182224</lastUpdated>
+  </versioning>
+</metadata>
