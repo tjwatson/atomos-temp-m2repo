@@ -3,13 +3,14 @@
   <groupId>org.eclipse.platform</groupId>
   <artifactId>org.eclipse.osgi</artifactId>
   <versioning>
-    <release>3.16.0.tjwatson_osgiConnect04</release>
+    <release>3.16.0.tjwatson_osgiConnect05</release>
     <versions>
       <version>3.16.0.tjwatson_osgiConnect01</version>
       <version>3.16.0.tjwatson_osgiConnect02</version>
       <version>3.16.0.tjwatson_osgiConnect03</version>
       <version>3.16.0.tjwatson_osgiConnect04</version>
+      <version>3.16.0.tjwatson_osgiConnect05</version>
     </versions>
-    <lastUpdated>20191218153944</lastUpdated>
+    <lastUpdated>20191220151949</lastUpdated>
   </versioning>
 </metadata>
