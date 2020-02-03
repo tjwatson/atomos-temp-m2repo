@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.apache.felix</groupId>
+  <artifactId>org.apache.felix.framework.connect</artifactId>
+  <versioning>
+    <release>0.1.0-CONNECT</release>
+    <versions>
+      <version>0.1.0-CONNECT</version>
+    </versions>
+    <lastUpdated>20200203150520</lastUpdated>
+  </versioning>
+</metadata>

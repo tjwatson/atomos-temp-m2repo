@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Feb 03 09:05:20 CST 2020
+org.apache.felix.framework.connect-0.1.0-CONNECT.pom>=
+org.apache.felix.framework.connect-0.1.0-CONNECT.jar>=
+org.apache.felix.framework.connect-0.1.0-CONNECT-sources.jar>=
