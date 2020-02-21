@@ -1,5 +1,5 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Wed Feb 05 18:05:37 CST 2020
+#Fri Feb 21 16:11:00 CST 2020
 org.apache.felix.framework.connect-0.1.0-SNAPSHOT.pom>=
 org.apache.felix.framework.connect-0.1.0-SNAPSHOT-sources.jar>=
 org.apache.felix.framework.connect-0.1.0-SNAPSHOT.jar>=
